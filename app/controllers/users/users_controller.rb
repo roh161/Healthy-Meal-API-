@@ -3,7 +3,7 @@ class Users::UsersController < ApplicationController
 
     def index
         @users = User.all
-        render json: { users: @users }, status: 200
+        render json: { All_users: @users }, status: 200
     end
 
     def show
