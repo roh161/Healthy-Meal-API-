@@ -1,0 +1,18 @@
+current directory: /home/dell/Documents/Rails Api/meal_app/vendor/bundle/ruby/3.0.0/gems/digest-3.1.0/ext/digest/sha2
+/usr/share/rvm/rubies/ruby-3.0.0/bin/ruby -I /usr/share/rvm/rubies/ruby-3.0.0/lib/ruby/site_ruby/3.0.0 extconf.rb
+checking for u_int8_t... yes
+checking for sys/cdefs.h... yes
+creating Makefile
+
+current directory: /home/dell/Documents/Rails Api/meal_app/vendor/bundle/ruby/3.0.0/gems/digest-3.1.0/ext/digest/sha2
+make DESTDIR\= sitearchdir\=./.gem.20220829-13758-uy7d4t sitelibdir\=./.gem.20220829-13758-uy7d4t clean
+
+current directory: /home/dell/Documents/Rails Api/meal_app/vendor/bundle/ruby/3.0.0/gems/digest-3.1.0/ext/digest/sha2
+make DESTDIR\= sitearchdir\=./.gem.20220829-13758-uy7d4t sitelibdir\=./.gem.20220829-13758-uy7d4t
+compiling sha2init.c
+compiling sha2.c
+linking shared-object digest/sha2.so
+
+current directory: /home/dell/Documents/Rails Api/meal_app/vendor/bundle/ruby/3.0.0/gems/digest-3.1.0/ext/digest/sha2
+make DESTDIR\= sitearchdir\=./.gem.20220829-13758-uy7d4t sitelibdir\=./.gem.20220829-13758-uy7d4t install
+/usr/bin/install -m 0755 sha2.so ./.gem.20220829-13758-uy7d4t/digest

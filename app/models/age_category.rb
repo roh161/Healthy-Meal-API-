@@ -1,0 +1,2 @@
+class AgeCategory < ApplicationRecord
+end
